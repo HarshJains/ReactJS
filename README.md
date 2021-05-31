@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+by typing command npx create-react-app file-tree-gadget 
+and replace public and src folder with this repository folder then type.
 
 ### `npm start`
 
